@@ -9,7 +9,8 @@ I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.R
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=Rooban-c&label=Profile%20views&color=ce9927&style=flat" alt="Rooban-c" /> </p>
-⚡ Fun fact **It’s not a bug – it’s an undocumented feature.**
+⚡ Fun fact **Error are red🔴
+             My screen in blue 💻.**
 
 <h1 align="center">Tech-Stack</h1>
 
@@ -19,14 +20,11 @@ I have great enthusiasm in new innovative technologies and I love to learn and l
  <img alt="Java" src="https://img.shields.io/badge/java-%93I8234B.svg?&style=for-the-badge&logo=java&logoColor=brown" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/react-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%978F7D64E" />
- <img alt="Docker" src="https://img.shields.io/badge/docker-%93871678211.svg?&style=for-the-badge&logo=docker&logoColor=%9u7239" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23323330.svg?&style=for-the-badge&logo=amazon&logoColor=%978F7D64E" />
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
  <img alt="Python" src="https://img.shields.io/badge/python-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%278F7D64E" />
- <img alt="Django" src="https://img.shields.io/badge/django-%982380svg?&style=for-the-badge&logo=django&logoColor=black" />
- <img alt="SaSS" src="https://img.shields.io/badge/sass-%2388599C.svg?&style=for-the-badge&logo=sass&logoColor=pink%22" />
+ <img alt="CloudComputing" src="https://img.shields.io/badge/CloudComputing-%982380svg?&style=for-the-badge&logo=amazon&logoColor=black" />
 </p>
 
 I believe in implementing the knowledge which I have. I'm always keen to learn and improve my technical skills so that I am 100% prepared for any challenging project.
@@ -68,5 +66,5 @@ No Activity tracked this Week
 
 <!--..-->
  
-[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vimalprogrammer&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rooban-c&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
